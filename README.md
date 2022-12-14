@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 
 ## Overview
 
@@ -35,13 +34,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. 
+In this project, I learnt how to use CSS grid to center content, max-width property to limit the product of card and how to use variables to color text and background colors of components.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects.
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+I am planning to include this component in full page & end-to-end websites, so that way i would understand what changes have to be made to the design for better visual experience.
